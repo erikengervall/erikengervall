@@ -12,3 +12,5 @@
 <br/><br/>
 
 [Contact](https://erikengervall.github.io)
+
+[TypeScript Style Guide](https://engervall.notion.site/c6eb1faeb2bc478fb6206dcb448a6ee6)
